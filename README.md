@@ -1,5 +1,5 @@
 # terraform-aws-vpc
-VPC module for AWS.
+Open Source VPC module for AWS.
 
 <!-- BEGIN_TF_DOCS -->
 ## Requirements
