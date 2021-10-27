@@ -33,7 +33,7 @@ output "owner_id" {
   value = aws_vpc.default[0].owner_id
 }
 
-### SG
+### Security Group
 
 output "sg_arn" {
   value = aws_default_security_group.default[0].arn
